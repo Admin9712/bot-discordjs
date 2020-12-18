@@ -20,7 +20,6 @@ client.on('message', msg => {
         .addField("ID de el Servidor", `**\`${msg.guild.id}\`**`)
         .addField("Owner de el Servidor", `[**__${msg.guild.owner}__**] (**\`${msg.guild.owner.id}\`**)`, true)
         .addField("Miembros", msg.guild.memberCount)
-        .addField("Roles", msg.guild.botsCount)
         .addField("Servidor creado el", msg.guild.createdAt)
         .setFooter(config.footer)
       msg.reply(embedsv);
