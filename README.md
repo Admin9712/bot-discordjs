@@ -2,9 +2,9 @@
 | :---: | :---: | :---: |
 
 ---
-
-**DISCORD BOT EN JAVASCRIPT**
-
+![BOT CLIENT](https://images-ext-2.discordapp.net/external/a7QglSHHDSAyYQNO17fGLXvVXU2cApG-hxz97PUdL2o/%3Ffontsize%3D38%26textcolor%3Dbot%26text%3DBOT/http/fortnitefontgenerator.com/img.php)
+![BOT CLIENT](https://images-ext-1.discordapp.net/external/aDLdodqzJOGCKATCuyL81j75IxG9t94zaYT6mp9sjpI/%3Ffontsize%3D38%26textcolor%3Dbot%26text%3DEN/http/fortnitefontgenerator.com/img.php)
+![BOT CLIENT](https://images-ext-2.discordapp.net/external/1_dB3qjmYlDxDCb4S4o03gSsh4oPK2qS8sqA4_qP11A/%3Ffontsize%3D38%26textcolor%3Dbot%26text%3DJAVASCRIPT/http/fortnitefontgenerator.com/img.php)
 ---
 
 Abres el archivo config.json pones el token de tu bot el canal de logs un prefijo, un Footer para los embeds.
