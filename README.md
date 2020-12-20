@@ -4,7 +4,6 @@
 ---
 
 **DISCORD BOT EN JAVASCRIPT**
-
 ---
 
 Abres el archivo config.json pones el token de tu bot el canal de logs un prefijo, un Footer para los embeds.
