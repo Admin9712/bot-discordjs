@@ -1,4 +1,4 @@
-| [Download](https://github.com/Whoisadri2/bot-discordjs) | [WEB UTILIZADA](https://discord.js.org/#/) | [Tutorial](https://www.youtube.com/watch?v=-uP-KtHl6YU&t=1s) |
+| [DESCARGAR](https://github.com/Whoisadri2/bot-discordjs) | [WEB UTILIZADA](https://discord.js.org/#/) | [TUTORIAL](https://www.youtube.com/watch?v=-uP-KtHl6YU&t=1s) |
 | :---: | :---: | :---: |
 
 # Discord Bot en JavaScript
