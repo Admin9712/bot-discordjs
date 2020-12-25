@@ -177,7 +177,7 @@ client.on('message', msg => {
        .setDescription(member.user.username + ' se unio al servidor!')
        .setFooter('Ahora somos ' + member.guild.memberCount + ' miembros.' )
        .setColor("BLUE") 
-     let canalLogs = client.channels.cache.get(config.idcanallogs);
+     let canalLogs = client.channels.cache.get(config.idcanalLogs);
      canalLogs.send(embedbienv);
      let canalBienvenida = client.channels.cache.get(config.idCanalBienvenidas);
      canalBienvenida.send(embedsalid);
@@ -189,7 +189,7 @@ client.on('message', msg => {
        .setDescription(member.user.username + ' dejo el servidor!')
        .setFooter('Ahora somos ' + member.guild.memberCount + ' miembros.' )
        .setColor("RED") 
-       let canalLogs = client.channels.cache.get(config.idcanallogs);
+       let canalLogs = client.channels.cache.get(config.idcanalLogs);
        canalLogs.send(embedsalid);
        let canalDespedida = client.channels.cache.get(config.idCanalDespedidas);
        canalDespedida.send(embedsalid);
