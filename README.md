@@ -1,3 +1,4 @@
+[![BOTJSV2](https://github-readme-stats.vercel.app/api/pin/?username=Whoisadri2&repo=bot-discordjs&theme=dark)](https://github.com/Whoisadri2/bot-discordjs)<br/>
 | [DESCARGAR](https://github.com/Whoisadri2/bot-discordjs) | [WEB UTILIZADA](https://discord.js.org/#/) | [TUTORIAL](https://www.youtube.com/watch?v=-uP-KtHl6YU&t=1s) |
 | :---: | :---: | :---: |
 
