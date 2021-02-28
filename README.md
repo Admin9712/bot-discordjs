@@ -1,4 +1,4 @@
----
+
 
 | [DESCARGAR](https://github.com/Admin9712/bot-discordjs) | [WEB UTILIZADA](https://discord.js.org/#/) | [TUTORIAL](https://www.youtube.com/watch?v=-uP-KtHl6YU&t=1s) |
 | :---: | :---: | :---: |
